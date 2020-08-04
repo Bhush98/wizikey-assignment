@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wizikey-assignment/static/css/main.22e8882f.chunk.css",
+    "main.js": "/wizikey-assignment/static/js/main.b8ae08b8.chunk.js",
+    "main.js.map": "/wizikey-assignment/static/js/main.b8ae08b8.chunk.js.map",
+    "runtime-main.js": "/wizikey-assignment/static/js/runtime-main.dce6e68f.js",
+    "runtime-main.js.map": "/wizikey-assignment/static/js/runtime-main.dce6e68f.js.map",
+    "static/js/2.7be1b996.chunk.js": "/wizikey-assignment/static/js/2.7be1b996.chunk.js",
+    "static/js/2.7be1b996.chunk.js.map": "/wizikey-assignment/static/js/2.7be1b996.chunk.js.map",
+    "index.html": "/wizikey-assignment/index.html",
+    "precache-manifest.507e73f6e4947af76b18adfb46bce674.js": "/wizikey-assignment/precache-manifest.507e73f6e4947af76b18adfb46bce674.js",
+    "service-worker.js": "/wizikey-assignment/service-worker.js",
+    "static/css/main.22e8882f.chunk.css.map": "/wizikey-assignment/static/css/main.22e8882f.chunk.css.map",
+    "static/js/2.7be1b996.chunk.js.LICENSE.txt": "/wizikey-assignment/static/js/2.7be1b996.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dce6e68f.js",
+    "static/js/2.7be1b996.chunk.js",
+    "static/css/main.22e8882f.chunk.css",
+    "static/js/main.b8ae08b8.chunk.js"
+  ]
+}
